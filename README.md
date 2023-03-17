@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/mikiLawand">
   <img height="180cm" src="http://github-readme-stats.vercel.app/api?username=mikiLawand&show_icons=true&theme=synthwave&include_allcommits=true&count_private=true"/>
-  <img height="180cm" src="http://github-readme-stats.vercel.app/api/top-langs/?username=mikiLawand&layout=compact&langs_count=16&theme=synthwave"/>
+  <img height="178cm" src="http://github-readme-stats.vercel.app/api/top-langs/?username=mikiLawand&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
 
 <div>
