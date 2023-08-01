@@ -1,6 +1,6 @@
 ### Oie 💖 Eu sou Michelle Lawand 👋
 
-🌱 Estudando CSS
+🌱 Estudando HTML e css
 
 😄 Pronomes: Ela/Elu
 
