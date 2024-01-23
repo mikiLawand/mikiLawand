@@ -1,6 +1,6 @@
 ### Oie 💖 Eu sou Michelle Lawand 👋
 
-🌱 Estudando UX Design
+🌱 Estudando Web Design
 
 😄 Pronomes: Ela/Elu
 
